@@ -15,7 +15,7 @@ body {
   background: #191919;
   font-family: monospace;
   min-height: 100vh;
-  display: inline;
+  display: flex;
   align-items: center;
   justify-content: center;
 }
